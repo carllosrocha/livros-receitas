@@ -1,7 +1,7 @@
-#Livro de receitas :man_cook:
+- # Livro de receitas :man_cook:
 
-Olá, Bem vindo ao meu livro de receita :wave:
+  Olá, Bem vindo ao meu livro de receita 👋
 
-- Strogonoff de frango
-- Pavê
-- Foi editado essa mesma linha diretamente no github, e não foi realizado o comando git pull para igualar as versoes. Quando tentarmos commitar e apos realizar push irá retornar com erro. 
+  - Strogonoff de frango
+  - Pavê
+  - Foi editado essa mesma linha diretamente no github, e não foi realizado o comando git pull para igualar as versoes. Quando tentarmos commitar e apos realizar push irá retornar com erro.
